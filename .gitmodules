@@ -25,3 +25,6 @@
 [submodule "lectures"]
 	path = lectures
 	url = https://github.com/oxford-cs-deepnlp-2017/lectures.git
+[submodule "system-design-primer"]
+	path = system-design-primer
+	url = https://github.com/donnemartin/system-design-primer.git
