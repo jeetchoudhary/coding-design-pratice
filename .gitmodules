@@ -7,3 +7,21 @@
 [submodule "interviews"]
 	path = interviews
 	url = https://github.com/kdn251/interviews.git
+[submodule "free-programming-books"]
+	path = free-programming-books
+	url = https://github.com/EbookFoundation/free-programming-books.git
+[submodule "coding-interview-university"]
+	path = coding-interview-university
+	url = https://github.com/jwasham/coding-interview-university.git
+[submodule "javascript-algorithms"]
+	path = javascript-algorithms
+	url = https://github.com/trekhleb/javascript-algorithms.git
+[submodule "system_design"]
+	path = system_design
+	url = https://github.com/shashank88/system_design.git
+[submodule "awesome-interview-questions"]
+	path = awesome-interview-questions
+	url = https://github.com/ngavrish/awesome-interview-questions.git
+[submodule "lectures"]
+	path = lectures
+	url = https://github.com/oxford-cs-deepnlp-2017/lectures.git
