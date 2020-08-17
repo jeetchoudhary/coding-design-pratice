@@ -4,3 +4,6 @@
 [submodule "papers-we-love"]
 	path = papers-we-love
 	url = https://github.com/papers-we-love/papers-we-love.git
+[submodule "interviews"]
+	path = interviews
+	url = https://github.com/kdn251/interviews.git
